@@ -1,0 +1,3 @@
+id,hora,temperatura,energia,comunicacao,status,criticidade,tempo_missao,distancia_base,modulo_termico,modulo_energetico,modulo_comunicacao,alertas
+1,09/06/2026 09:58:17,58.7,71.1,1,NORMAL,0,5,138.5,OPERACIONAL,OPERACIONAL,OPERACIONAL,Sem alertas
+2,09/06/2026 09:58:38,84.0,15.0,0,CRITICO,100,10,157.0,CRITICO,ECONOMIA,FALHA,Alerta de superaquecimento; Energia critica. Modo economia ativado; Falha de comunicacao
